@@ -4,6 +4,11 @@ const invertTree = function(root) {
     }
 
 
+/* Algo:
+All we have to do is to invert the nodes in a binary tree, 
+so we will perform a normal tree traversal but interchnage the value of left node with the value of right node and vice-versa and save it as  new TreeNode.
+
+
 
 /*
 Runtime: 72 ms, faster than 82.58% of JavaScript online submissions for Invert Binary Tree.
