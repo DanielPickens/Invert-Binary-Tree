@@ -1,7 +1,7 @@
 # Invert-Binary-Tree
 My 3 line JavaScript solution that's faster than 82% of other solutions runtime's on Leetcode.
 
-Given the root of a binary tree, invert the tree, and return its root.
+"Given the root of a binary tree, invert the tree, and return its root.
 
  
 
@@ -24,4 +24,4 @@ Output: []
 Constraints:
 
 The number of nodes in the tree is in the range [0, 100].
--100 <= Node.val <= 100
+-100 <= Node.val <= 100"
